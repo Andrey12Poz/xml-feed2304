@@ -2423,7 +2423,7 @@
                     </description_ua>
                     <param name="Тип">Офісні</param>
                     <param name="Вид">Для приладдя, Для скріпок та дрібниць, Для телефону, Для планшета, Під календар, Для ручок, Для візиток </param>
-                    <param name="Відділень">1, 2, 3, 4</param>
+                    <param name="Відділень">4</param>
                     <param name="Матеріал">Дерево</param>
                     <param name="Розміри основи (ДхШ), см">32.7 x 15</param>
                     <param name="Висота, см">25</param>
@@ -2460,7 +2460,7 @@
                     </description_ua>
                     <param name="Тип">Офісні</param>
                     <param name="Вид">Для приладдя, Для скріпок та дрібниць, Для телефону, Для планшета, Під календар, Для ручок, Для візиток </param>
-                    <param name="Відділень">1, 2, 3, 4</param>
+                    <param name="Відділень">3</param>
                     <param name="Матеріал">Дерево</param>
                     <param name="Розміри основи (ДхШ), см">32.7 x 15</param>
                     <param name="Висота, см">25</param>
